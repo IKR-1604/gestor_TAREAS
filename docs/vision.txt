@@ -1,0 +1,1 @@
+Quiero una aplicación web de lista de tareas usando React. No necesito backend ni base de datos, toda la información se debe guardar en el localStorage del navegador. El diseño debe ser minimalista, con fondo oscuro. Funcionalidades: agregar tarea, marcar como completada y borrar tarea.
