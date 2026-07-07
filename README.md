@@ -1,5 +1,5 @@
 # Gestor de Tareas Minimalista
-# proyecto creado a fin de exploracion con el CLI de gemini y gsd (get shit done)
+# proyecto creado a fin de exploracion con el CLI de gemini 
 
 Una aplicación web de lista de tareas moderna, rápida y minimalista construida con **React** y **TypeScript**.
 
